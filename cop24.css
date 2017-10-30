@@ -1,0 +1,72 @@
+
+/*Titres*/
+
+
+
+h1 {
+	color: white;
+	font-size: 80px;
+	text-align: center;
+	font-family: calibri, open-sans, sans-serif;
+	}
+
+h2 {
+	color: white;
+	text-align: center;
+	font-size: 60px;
+	font-family: calibri, open-sans, sans-serif;
+
+}
+
+.soustitre {
+	color: green;
+	text-align: center;
+	font-family: calibri, open-sans, sans-serif
+}
+
+h3 {
+	color: green;
+	text-align: center;
+	font-family: calibri, open-sans, sans-serif
+}
+
+.navbar {
+	color: green;
+}
+
+.menu-link {
+	display: inline-block;
+	margin: 5px 30px;
+	font-size: 30px;
+	color: green;
+	font-family: calibri, open-sans, sans-serif;
+}
+
+.informations_participants {
+	text-align: right;
+	font-size: 40px;
+	color:green;
+	font-family: calibri, open-sans, sans-serif;
+}
+
+.informations_journée {
+	display: inline-block;
+	margin: 5px 30px;
+}
+
+.form-group {
+	color: white;
+}
+
+.with-image{
+	background-image: url("images/arbresjolis.jpg");
+}
+
+.carousel-item img {
+	height: 70vh;
+	object-fit: cover;
+}
+
+.d-none {
+	color: white;
+}
